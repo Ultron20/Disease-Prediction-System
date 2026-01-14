@@ -1,0 +1,20 @@
+# Data Handling
+pandas
+numpy
+
+# Machine Learning (From Scikit-Learning)
+sklearn.preprocessing.LabelEncoder
+sklearn.model_selection.train_test_split
+sklearn.model_selection.GridSearchCV
+sklearn.model_selection.cross_val_score   (imported but unused)
+sklearn.ensemble.RandomForestClassifier
+sklearn.metrics.accuracy_score
+sklearn.metrics.classification_report
+sklearn.metrics.confusion_matrix
+
+# Data Visualization (May be not used but imported)
+matplotlib.pyplot
+seaborn
+
+# For Saving files
+pickle

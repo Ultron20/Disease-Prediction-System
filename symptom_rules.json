@@ -1,0 +1,205 @@
+{
+    "symptom_groups": [
+        {
+            "group_name": "Skin",
+            "intro_question": "Do you have any skin-related symptoms (like rash, itching, or eruptions)?",
+            "follow_up": [
+                "itching",
+                "skin_rash",
+                "nodal_skin_eruptions",
+                "yellowish_skin",
+                "internal_itching",
+                "skin_peeling"
+            ]
+        },
+        {
+            "group_name": "Respiratory",
+            "intro_question": "Do you have any cough, cold, or breathing-related issues?",
+            "follow_up": [
+                "cold_hands_and_feets",
+                "patches_in_throat",
+                "cough",
+                "breathlessness",
+                "throat_irritation",
+                "runny_nose",
+                "red_sore_around_nose"
+            ]
+        },
+        {
+            "group_name": "Digestive",
+            "intro_question": "Do you have any digestion or stomach-related symptoms?",
+            "follow_up": [
+                "joint_pain",
+                "stomach_pain",
+                "vomiting",
+                "nausea",
+                "loss_of_appetite",
+                "pain_behind_the_eyes",
+                "back_pain",
+                "constipation",
+                "abdominal_pain",
+                "diarrhoea",
+                "swelling_of_stomach",
+                "chest_pain",
+                "pain_during_bowel_movements",
+                "pain_in_anal_region",
+                "neck_pain",
+                "knee_pain",
+                "hip_joint_pain",
+                "muscle_pain",
+                "belly_pain",
+                "increased_appetite",
+                "stomach_bleeding",
+                "painful_walking"
+            ]
+        },
+        {
+            "group_name": "Fever & Infection",
+            "intro_question": "Do you have fever, chills, or infection-like symptoms?",
+            "follow_up": [
+                "chills",
+                "fatigue",
+                "high_fever",
+                "sweating",
+                "mild_fever"
+            ]
+        },
+        {
+            "group_name": "Neurological",
+            "intro_question": "Do you have any nerve or head-related symptoms (like headache or dizziness)?",
+            "follow_up": [
+                "headache",
+                "dizziness"
+            ]
+        },
+        {
+            "group_name": "Muscular & Joint",
+            "intro_question": "Do you have any muscle pain, weakness, or joint-related symptoms?",
+            "follow_up": [
+                "joint_pain",
+                "stomach_pain",
+                "muscle_wasting",
+                "pain_behind_the_eyes",
+                "back_pain",
+                "abdominal_pain",
+                "chest_pain",
+                "weakness_in_limbs",
+                "pain_during_bowel_movements",
+                "pain_in_anal_region",
+                "neck_pain",
+                "knee_pain",
+                "hip_joint_pain",
+                "muscle_weakness",
+                "swelling_joints",
+                "weakness_of_one_body_side",
+                "muscle_pain",
+                "belly_pain",
+                "painful_walking"
+            ]
+        },
+        {
+            "group_name": "Urinary",
+            "intro_question": "Do you have any urinary or bladder-related symptoms?",
+            "follow_up": [
+                "burning_micturition",
+                "dark_urine",
+                "yellow_urine",
+                "foul_smell_of urine",
+                "continuous_feel_of_urine"
+            ]
+        },
+        {
+            "group_name": "Cardiac",
+            "intro_question": "Do you have any heart or chest-related symptoms?",
+            "follow_up": [
+                "chest_pain",
+                "fast_heart_rate",
+                "palpitations"
+            ]
+        },
+        {
+            "group_name": "Others",
+            "intro_question": "Do you have any other symptoms not listed above?",
+            "follow_up": [
+                "continuous_sneezing",
+                "shivering",
+                "acidity",
+                "ulcers_on_tongue",
+                "spotting_ urination",
+                "weight_gain",
+                "anxiety",
+                "mood_swings",
+                "weight_loss",
+                "restlessness",
+                "lethargy",
+                "irregular_sugar_level",
+                "sunken_eyes",
+                "dehydration",
+                "indigestion",
+                "yellowing_of_eyes",
+                "acute_liver_failure",
+                "fluid_overload",
+                "swelled_lymph_nodes",
+                "malaise",
+                "blurred_and_distorted_vision",
+                "phlegm",
+                "redness_of_eyes",
+                "sinus_pressure",
+                "congestion",
+                "bloody_stool",
+                "irritation_in_anus",
+                "cramps",
+                "bruising",
+                "obesity",
+                "swollen_legs",
+                "swollen_blood_vessels",
+                "puffy_face_and_eyes",
+                "enlarged_thyroid",
+                "brittle_nails",
+                "swollen_extremeties",
+                "excessive_hunger",
+                "extra_marital_contacts",
+                "drying_and_tingling_lips",
+                "slurred_speech",
+                "stiff_neck",
+                "movement_stiffness",
+                "spinning_movements",
+                "loss_of_balance",
+                "unsteadiness",
+                "loss_of_smell",
+                "bladder_discomfort",
+                "passage_of_gases",
+                "toxic_look_(typhos)",
+                "depression",
+                "irritability",
+                "altered_sensorium",
+                "red_spots_over_body",
+                "abnormal_menstruation",
+                "dischromic _patches",
+                "watering_from_eyes",
+                "polyuria",
+                "family_history",
+                "mucoid_sputum",
+                "rusty_sputum",
+                "lack_of_concentration",
+                "visual_disturbances",
+                "receiving_blood_transfusion",
+                "receiving_unsterile_injections",
+                "coma",
+                "distention_of_abdomen",
+                "history_of_alcohol_consumption",
+                "fluid_overload.1",
+                "blood_in_sputum",
+                "prominent_veins_on_calf",
+                "pus_filled_pimples",
+                "blackheads",
+                "scurring",
+                "silver_like_dusting",
+                "small_dents_in_nails",
+                "inflammatory_nails",
+                "blister",
+                "yellow_crust_ooze"
+            ]
+        }
+    ]
+}
