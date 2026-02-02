@@ -38,7 +38,7 @@ The system takes a set of symptoms as input, processes them using a trained mach
 
 ---
 
-## ▶️ How to Run the Project
+
 
 ## ▶️ How to Use the Model
 
