@@ -40,11 +40,18 @@ The system takes a set of symptoms as input, processes them using a trained mach
 
 ## ▶️ How to Run the Project
 
-git clone https://github.com/Ultron20/Disease-Prediction-System.git
+## ▶️ How to Use the Model
 
-cd Disease-Prediction-System
-pip install -r requirements.txt
-python app.py
+This repository contains **only the machine learning model and prediction logic**, not a complete website or user interface.
+
+### Steps:
+1. Clone the repository
+2. Open the project in any Python IDE (VS Code / PyCharm)
+3. Install required Python libraries
+4. Run the prediction script to test disease prediction
+
+> Note: This project focuses on the **machine learning logic** and can be integrated into a web or mobile application in the future.
+
 
 ---
 
