@@ -2,14 +2,6 @@ flask
 pandas
 scikit-learn
 
-
-This is a Flask-based ML API for disease prediction.
-
-Steps to run:
-1. Unzip the ml_api folder
-2. Open terminal inside the folder
-3. Install dependencies:
-   pip install -r requirements.txt
 4. Run:
    python app.py
 
