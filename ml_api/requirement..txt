@@ -2,8 +2,8 @@ flask
 pandas
 scikit-learn
 
-4. Run:
-   python app.py
+Run:
+python app.py
 
 API endpoint:
 POST http://127.0.0.1:5000/predict
